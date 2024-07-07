@@ -1,4 +1,4 @@
-# weather_scraping
+# book_management
 
 ## Використані інструменти:
 
